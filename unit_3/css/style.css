@@ -1,12 +1,12 @@
 body{
 	background-color: rgba(0,0,0,.7);
 	color: #FFF9CD;
-	font-family: Calibri, Helvetica, san-serif;
+	font-family: Calibri, Helvetica, sans-serif;
 	font-size: 18px;
 }
 
 h1{
-	font-family: Adventure, Calibri, san-serif;
+	font-family: Adventure, Calibri, sans-serif;
 	font-size: 72px;
 	text-align: center;
 	padding: 1px;
@@ -15,7 +15,7 @@ h1{
 }
 
 .slogan{
-	font-family: Adventure Hollow, Calibri, san-serif;
+	font-family: Adventure Hollow, Calibri, sans-serif;
 	font-size: 36px;
 	text-align: center;
 	padding: 1px;
