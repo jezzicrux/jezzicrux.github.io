@@ -39,9 +39,10 @@ img{
 
 #listtext{
 	margin: auto;
+	list-style: none;
 	width: 500px;
 	padding-top: 10px;
-	padding-left: 0px;
+	padding-left: 60px;
 	font-family: Pridi, Calibri, sans-serif;
 }
 
