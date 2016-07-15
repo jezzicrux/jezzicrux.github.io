@@ -3,7 +3,7 @@
 body{
 	background-color: rgba(0,0,0,.7);
 	color: #FFF9CD;
-	font-family: Mada, Calibri, Helvetica, sans-serif;
+	font-family: Calibri, Helvetica, sans-serif;
 	font-size: 18px;
 }
 
@@ -43,7 +43,7 @@ img{
 	width: 500px;
 	padding-top: 10px;
 	padding-left: 60px;
-	font-family: Pridi, Calibri, sans-serif;
+	font-family: Arvo Regular, Calibri, serif;
 }
 
 #footer{
