@@ -1,5 +1,5 @@
 @import url(https://fonts.googleapis.com/css?family=Mada:400,900);
-
+* { margin:0; padding:0; box-sizing:border-box; }
 body{
 	background-color: #091A40;
 	color: #FFEB9A;
@@ -47,19 +47,20 @@ nav a:hover{
     clear: both;
     height: 0;
 }
-
-aside{
-	float: left;
+#two_column {
+	color:#091a40;
 }
-
-article{
+#two_column img {
+	float:left;
+	width:40%;
+}
+#two_column div {
 	padding: 20px;
 	float: left;
 	width: 60%;
-	color: #091A40;
 	line-height: 20px;
 }
-article h1{
+h1{
 	font-weight: 900;
 	font-size: 20px;
 	text-decoration: underline;
