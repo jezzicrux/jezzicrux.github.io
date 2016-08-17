@@ -1,0 +1,170 @@
+@import url(https://fonts.googleapis.com/css?family=Mada:400,900);
+* { margin:0; padding:0; box-sizing:border-box; }
+body{
+	background-color: #091A40;
+	color: #FFEB9A;
+	font-family: 'Mada', 'Calibri', 'Helvetica', sans-serif;
+	font-size: 16px;
+}
+
+header{
+	padding: 1.25em;
+	color: #FFEB9A;
+}
+
+#main_title{
+	font-family: 'Bowlby One';
+	font-size: 4em;
+	text-align: center;
+	letter-spacing: .08em;
+	text-decoration: none;
+}
+
+nav{
+	background-color: #091A40;
+}
+
+nav a{
+	text-decoration: none;
+	font-weight: 900;
+	font-size: 1.5em;
+	letter-spacing: .05em;
+	color: #FFEB9A;
+ 	display: block;
+ 	float: left;
+ 	padding: .5em 1em .5em;
+}
+
+nav a:hover{
+	background-color: #FFEB9A;
+	color: #091A40;
+}
+
+.clearfix:after {
+    visibility: hidden;
+    display: block;
+    font-size: 0;
+    content: " ";
+    clear: both;
+    height: 0;
+}
+#two_column {
+	color:#091a40;
+}
+
+.title {
+	display: block;
+	padding: 0 0 .5em 0;
+	text-align: center;
+	font-weight: 900;
+	font-size: 2em;
+	text-decoration: underline;
+}
+
+.picture {
+	float:left;
+	width:70%;
+	padding: 0 0 1.25em 0;
+}
+
+.picture img {
+	width:100%;
+}
+
+.descripition {
+	font-size: 1.1em;
+	padding: 0 0 0 1.25em;
+	float: left;
+	width: 30%;
+	line-height: 1.25em;
+}
+
+.picture_ver {
+	float:left;
+	width:40%;
+	padding: 0 0 1.25em 0;
+}
+
+.picture_ver img {
+	width:100%;
+}
+
+.descripition_ver {
+	font-size: 1.1em;
+	padding: 0 0 0 1.25em;
+	float: left;
+	width: 55%;
+	line-height: 1.25em;
+}
+
+.picture_small {
+	float:left;
+	width:55%;
+	padding: 0 0 1.25em 0;
+}
+
+.picture_small img {
+	width:100%;
+}
+
+.descripition_small {
+	font-size: 1.1em;
+	padding: 0 0 0 1.25em;
+	float: left;
+	width: 45%;
+	line-height: 1.25em;
+}
+
+h1{
+	font-weight: 900;
+	font-size: 1.2em;
+	text-decoration: underline;
+}
+
+.clearfix:after {
+    visibility: hidden;
+    display: block;
+    font-size: 0;
+    content: " ";
+    clear: both;
+    height: 0;
+}
+
+footer {
+	background-color: #091A40;
+	padding: 1.25em .5em 0;
+	font-size: 1.1em;
+	letter-spacing: .05em;
+}
+
+footer a{
+	text-decoration: none;
+	color: #FFEB9A;
+}
+
+.wrapper{
+	padding: 1.25em;
+	width: 80%;
+	margin: auto;
+}
+
+section{
+	background-color: #FFEB9A;
+	padding: 1.25em;
+}
+
+@media (max-width: 768px) {
+	body{
+		font-size: 12px;
+	}
+}
+
+@media (max-width: 360px) {
+	body{
+		font-size: 8px;
+	}
+
+	nav a{
+ 	float: none;
+	}
+}
