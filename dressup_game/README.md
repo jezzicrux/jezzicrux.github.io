@@ -3,18 +3,18 @@ This flash game was created for testing against requirements and finding bugs.
 
 ## Requirements for dress up game.
 The layout will be broken up into three major sections
-- a.	The dress-up icons will on the left side of the layout
-- b.	The color options for the bangs, hair, shirts, pant, and skirt will be located on right of the icons
-- c.	The window with the mannequin will be on the right side of the layout
-- d.	The layout will be the width on the browser
-2.	Mannequin requirements:
-   - a.	The pose of the mannequin will be a relax stance with a hand on her hip
-   - b.	Upper and lower areas of the body will be covered on the mannequin
-   - c.	The underclothing can never be removed
-   - d.	The mannequin face will start with the first eyes, nose and mouth in the respected list
-         i.	The eyes will always default with the yellow colored eyes
-         ii.	The nose will always default with the first in the set
-         iii.	The mouth will always default with the first in the set
+- The dress-up icons will on the left side of the layout
+- The color options for the bangs, hair, shirts, pant, and skirt will be located on right of the icons
+- The window with the mannequin will be on the right side of the layout
+- The layout will be the width on the browser
+Mannequin requirements:
+- The pose of the mannequin will be a relax stance with a hand on her hip
+- Upper and lower areas of the body will be covered on the mannequin
+- The underclothing can never be removed
+- The mannequin face will start with the first eyes, nose and mouth in the respected list
+  - The eyes will always default with the yellow colored eyes
+  - The nose will always default with the first in the set
+  - The mouth will always default with the first in the set
 3.	Mannequin window requirements:
    - a.	The mannequin window will have rounded rectangle border
    - b.	The rounded rectangle border will be hex color #5f9efe
