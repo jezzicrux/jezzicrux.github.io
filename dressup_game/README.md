@@ -16,31 +16,34 @@ Mannequin requirements:
   - The eyes will always default with the yellow colored eyes
   - The nose will always default with the first in the set
   - The mouth will always default with the first in the set
-3.	Mannequin window requirements:
-   - a.	The mannequin window will have rounded rectangle border
-   - b.	The rounded rectangle border will be hex color #5f9efe
-   - c.	The inner background of the mannequin window will be background.png
-   - d.	There will be mannequin centered within the window
-   - e.	Three buttons will be place at the top on the border.
-         - Eyes
-            - When clicked there will be four eyes options
-         - Nose
-            - When clicked there will be four nose options
-iii.	Mouth
-1.	When clicked there will be five mouth options
-f.	A button will be located on the upper right side that will control the sound. (Toggle sound on and off)
-i.	When the sound has been toggled off the button will display with a cross out icon
-4.	Overall background color will be hex color #fcf3e2
-5.	Eyes color buttons requirements:
-a.	There will be six color options
-i.	Yellow button with hex color #ffbf00
-ii.	Blue button with hex color #007fff
-iii.	Brown button with hex color #8e7156
-iv.	Green button with hex color #4cbb17
-v.	Purple button with hex color #99660e
-vi.	Grey button with hex color #9d9d9d
-b.	The color buttons will be thin rounded rectangles
-c.	The buttons will be located under that eyes button
+
+Mannequin window requirements:
+- The mannequin window will have rounded rectangle border
+- The rounded rectangle border will be hex color #5f9efe
+- The inner background of the mannequin window will be background.png
+- There will be mannequin centered within the window
+- Three buttons will be place at the top on the border.
+  - Eyes
+    - When clicked there will be four eyes options
+  - Nose
+    - When clicked there will be four nose options
+  - Mouth
+    - When clicked there will be five mouth options
+- A button will be located on the upper right side that will control the sound. (Toggle sound on and off)
+  - When the sound has been toggled off the button will display with a cross out icon
+
+Overall background color will be hex color #fcf3e2
+
+Eyes color buttons requirements:
+- There will be six color options
+  - Yellow button with hex color #ffbf00
+  - Blue button with hex color #007fff
+  - Brown button with hex color #8e7156
+  - Green button with hex color #4cbb17
+  - Purple button with hex color #99660e
+  - Grey button with hex color #9d9d9d
+- The color buttons will be thin rounded rectangles
+- The buttons will be located under that eyes button
 6.	Bangs icon requirements:
 a.	There will be five bang icons
 b.	The bangs will be position on the upper left hand corner
