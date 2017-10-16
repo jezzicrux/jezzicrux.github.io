@@ -13,9 +13,9 @@ This flash game was created for testing against requirements and finding bugs.
    - b.	Upper and lower areas of the body will be covered on the mannequin
    - c.	The underclothing can never be removed
    - d.	The mannequin face will start with the first eyes, nose and mouth in the respected list
-         - i.	The eyes will always default with the yellow colored eyes
-         - ii.	The nose will always default with the first in the set
-         - iii.	The mouth will always default with the first in the set
+         i.	The eyes will always default with the yellow colored eyes
+         ii.	The nose will always default with the first in the set
+         iii.	The mouth will always default with the first in the set
 
 3.	Mannequin window requirements:
 
