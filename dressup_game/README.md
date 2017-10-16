@@ -3,10 +3,8 @@ This flash game was created for testing against requirements and finding bugs.
 
 ## Requirements for dress up game.
 1.	The layout will be broken up into three major sections
-
-a.	The dress-up icons will on the left side of the layout
-
-b.	The color options for the bangs, hair, shirts, pant, and skirt will be located on right of the icons
+ -a.	The dress-up icons will on the left side of the layout
+ -b.	The color options for the bangs, hair, shirts, pant, and skirt will be located on right of the icons
 
 c.	The window with the mannequin will be on the right side of the layout
 
