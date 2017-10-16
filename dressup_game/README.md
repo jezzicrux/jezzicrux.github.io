@@ -44,135 +44,144 @@ Eyes color buttons requirements:
   - Grey button with hex color #9d9d9d
 - The color buttons will be thin rounded rectangles
 - The buttons will be located under that eyes button
-6.	Bangs icon requirements:
-a.	There will be five bang icons
-b.	The bangs will be position on the upper left hand corner
-c.	The bangs will be change colors with corresponding buttons
-7.	Hairs icon requirements:
-a.	There will be five hair icons
-b.	The hair will be position next to the bangs
-c.	The hair will be change colors with corresponding buttons
-8.	Shirts icon requirements:
-a.	There will be five shirt icons
-b.	The shirts will be position next to the hair
-c.	The shirts will be change colors with corresponding buttons
-9.	Skirt and pant icon requirements:
-a.	There will be two skirts and one pant icons
-b.	The pant icon will be position between the two skirts icon
-c.	The skirt and pant icon will be located under the shirt icons
-d.	The skirt will be change colors with corresponding buttons
-e.	The pant will be change colors with corresponding buttons
-10.	Bang color buttons requirements:
-a.	There will ten color buttons under the bangs heading
-i.	Pink button with hex color #fb607f
-ii.	Purple button with hex color #8878c3
-iii.	Red button with hex color #b00b0b
-iv.	Brown button with hex color #754c24
-v.	Yellow button with hex color #fbec5d
-vi.	Blue button with hex color #007ba7
-vii.	Green button with hex color #3da10e
-viii.	Grey button with hex color #c0c0c0
-ix.	Orange button with hex color #bf5815
-x.	Black button with hex color #121110
-b.	Each color button will color all five bang icons at the same time
-c.	The buttons will be arranged in two lines of five under the title “Bangs:”
-i.	First line order – Pink, Purple, Red, Brown and Yellow
-ii.	Second line order – Blue, Green, Grey, Orange and Black
-11.	Hair color buttons requirements:
-a.	There will ten color buttons under the hair heading
-i.	Pink button with hex color #fb607f
-ii.	Purple button with hex color #8878c3
-iii.	Red button with hex color #b00b0b
-iv.	Brown button with hex color #754c24
-v.	Yellow button with hex color #fbec5d
-vi.	Blue button with hex color #007ba7
-vii.	Green button with hex color #3da10e
-viii.	Grey button with hex color #c0c0c0
-ix.	Orange button with hex color #bf5815
-x.	Black button with hex color #121110
-b.	Each color button will color all five hair icons at the same time
-c.	The buttons will be arranged in two lines of five under the title “Hair:”
-i.	First line order – Pink, Purple, Red, Brown and Yellow
-ii.	Second line order – Blue, Green, Grey, Orange and Black
-12.	Shirt color button requirements:
-a.	There will thirty color buttons under the shirts heading
-i.	Aries button with hex color #65272e
-ii.	Taurus button with hex color #71a191
-iii.	Gemini button with hex color #91a4af
-iv.	Cancer button with hex color #18c0cb
-v.	Leo button with hex color #ebac62
-vi.	Virgo button with hex color #edc879
-vii.	Libra button with hex color #bbd0dd
-viii.	Scorpio button with hex color #000000
-ix.	Sagittarius button with hex color #871729
-x.	Capricorn button with hex color #3e6221
-xi.	Aquarius button with hex color #bfe1e1
-xii.	Pisces button with hex color #1e8baf
-xiii.	Star Patten button with hex color #ececdf
-1.	Shirt icons will be filled with the 20crazykira.jpg image
-xiv.	Butterfly cloud button image will be antique-butterflies-patterns2.jpg
-xv.	Blue stripe button image will be Blues.jpg
-xvi.	Red stripe button image will be Jazz.jpg
-xvii.	Strawberry button with hex color #ecebdf
-1.	Shirt icons will be filled with the strawberry.png image
-xviii.	Gold button image will be webtreats-3.jpg
-xix.	Gold flower button image will be webtreats-6.jpg
-xx.	Light blue stripe button image will be pattern9.png
-xxi.	Green pattern button image will be Ocean Waves – Mint.jpg
-xxii.	Pink design button image will be pattern.png
-xxiii.	Pink flower button with hex color #2e0101
-1.	Shirt icons will be filled with the flower.png image
-xxiv.	Purple button with hex color #62289b
-xxv.	Teal button with hex color #2c5c4e
-xxvi.	Red button with hex color #a70e0c
-xxvii.	Blue button with hex color #4da0c4
-xxviii.	Fuchsia button with hex color #bc32a2
-xxix.	Grey button with hex color #626262
-xxx.	White button with hex color #ffffff with a black outline
-b.	Each color button will color all five shirt icons at the same time
-c.	The buttons will be arranged in five lines of six under the title “Shirts:”
-i.	First line order – Aries, Taurus, Gemini, Cancer, Leo and Virgo
-ii.	Second line order – Libra, Scorpio, Sagittarius, Capricorn, Aquarius and Pisces
-iii.	Third line order – Star Patten, Butterfly cloud, Blue stripe, Red stripe, Strawberry and Gold
-iv.	Fourth line order – Gold flower, Light blue stripe, Green pattern, Pink design, Pink flower and Purple
-v.	Fifth line order – Teal, Red, Blue, Fuchsia, Grey and White
-d.	Aries, Taurus, Gemini, Cancer, Leo, Virgo, Libra, Scorpio, Sagittarius, Capricorn, Aquarius and Pisces have two choice options:
-i.	The first time the user click on the these buttons the shirt icons will be colored with the hex color and a zodiac logo on the right side
-ii.	The second time the user click on the these buttons the shirt icons will be colored with only the hex color
-13.	Pants color buttons requirements:
-a.	There will nine color buttons under the pants heading
-i.	Blue jeans button image will be 61199849057b8b771.jpg
-ii.	Dark blue jeans button image will be 61199849057b8b772.jpg
-iii.	Light blue jeans button image will be 61199849057b8b773.jpg
-iv.	Black jeans button image will be 61199849057b8b775.jpg
-v.	Dark grey jeans button image will be 61199849057b8b77.jpg
-vi.	Grey jeans button image will be 61199849057b8b776.jpg
-vii.	Blue plaid button image will be Softly Plaidly (6)smallbluedark.png
-viii.	Red plaid button image will be Softly Plaidly (6)smallred.png
-ix.	Khaki button image will be 61199849057b8b774.jpg
-b.	Each color button will color the pants icon
-c.	The buttons will be arranged in two lines under the title “Pants:”
-i.	First line order – Blue jeans, Dark blue jeans, Light blue jeans, Black jeans, Dark grey jeans and Grey jeans
-ii.	Second line order – Blue plaid, Red plaid and Khaki
-14.	Skirts color buttons requirements:
-a.	There will fifteen color buttons under the skirts heading
-i.	Brown kaleidoscope button image will be gold jewel.png
-ii.	White kaleidoscope button image will be frozen love.png
-iii.	Green kaleidoscope button image will be 425164.png
-iv.	Stripes button image will be stripe.png
-v.	Leaves button image will be leaves.png
-vi.	Poke-a-dots button image will be crazykira-resources (48).jpg
-vii.	Blue plaid button image will be Softly Plaidly (6)smallbluedark.png
-viii.	Khaki button image will be 61199849057b8b774.jpg
-ix.	Red plaid button image will be Softly Plaidly (6)smallred.png
-x.	Light blue jeans button image will be 61199849057b8b773.jpg
-xi.	Blue jeans button image will be 61199849057b8b771.jpg
-xii.	Dark blue jeans button image will be 61199849057b8b772.jpg
-xiii.	Grey jeans button image will be 61199849057b8b776.jpg
-xiv.	Dark grey jeans button image will be 61199849057b8b77.jpg
-xv.	Black jeans button image will be 61199849057b8b775.jpg
-b.	Each color button will color both skirt icons at the same time
-c.	The buttons will be arranged in three lines under the title “Skirts:”
-i.	First line order – Brown kaleidoscope, White kaleidoscope, and Green kaleidoscope 
-ii.	Second line order – Stripes, Leaves, Poke-a-dots, Blue plaid, Khaki and Red plaid
-iii.	Third line order - Light blue jeans, Blue jeans, Dark blue jeans, Grey jeans, Dark grey jeans and Black jeans
+
+Bangs icon requirements:
+- There will be five bang icons
+- The bangs will be position on the upper left hand corner
+- The bangs will be change colors with corresponding buttons
+
+Hairs icon requirements:
+- There will be five hair icons
+- The hair will be position next to the bangs
+- The hair will be change colors with corresponding buttons
+
+Shirts icon requirements:
+- There will be five shirt icons
+- The shirts will be position next to the hair
+- The shirts will be change colors with corresponding buttons
+
+Skirt and pant icon requirements:
+- There will be two skirts and one pant icons
+- The pant icon will be position between the two skirts icon
+- The skirt and pant icon will be located under the shirt icons
+- The skirt will be change colors with corresponding buttons
+- The pant will be change colors with corresponding buttons
+
+Bang color buttons requirements:
+- There will ten color buttons under the bangs heading
+  - Pink button with hex color #fb607f
+  - Purple button with hex color #8878c3
+  - Red button with hex color #b00b0b
+  - Brown button with hex color #754c24
+  - Yellow button with hex color #fbec5d
+  - Blue button with hex color #007ba7
+  - Green button with hex color #3da10e
+  - Grey button with hex color #c0c0c0
+  - Orange button with hex color #bf5815
+  - Black button with hex color #121110
+- Each color button will color all five bang icons at the same time
+- The buttons will be arranged in two lines of five under the title “Bangs:”
+  - First line order – Pink, Purple, Red, Brown and Yellow
+  - Second line order – Blue, Green, Grey, Orange and Black
+
+Hair color buttons requirements:
+- There will ten color buttons under the hair heading
+  - Pink button with hex color #fb607f
+  - Purple button with hex color #8878c3
+  - Red button with hex color #b00b0b
+  - Brown button with hex color #754c24
+  - Yellow button with hex color #fbec5d
+  - Blue button with hex color #007ba7
+  - Green button with hex color #3da10e
+  - Grey button with hex color #c0c0c0
+  - Orange button with hex color #bf5815
+  - Black button with hex color #121110
+- Each color button will color all five hair icons at the same time
+- The buttons will be arranged in two lines of five under the title “Hair:”
+  - First line order – Pink, Purple, Red, Brown and Yellow
+  - Second line order – Blue, Green, Grey, Orange and Black
+
+Shirt color button requirements:
+- There will thirty color buttons under the shirts heading
+  - Aries button with hex color #65272e
+  - Taurus button with hex color #71a191
+  - Gemini button with hex color #91a4af
+  - Cancer button with hex color #18c0cb
+  - Leo button with hex color #ebac62
+  - Virgo button with hex color #edc879
+  - Libra button with hex color #bbd0dd
+  - Scorpio button with hex color #000000
+  - Sagittarius button with hex color #871729
+  - Capricorn button with hex color #3e6221
+  - Aquarius button with hex color #bfe1e1
+  - Pisces button with hex color #1e8baf
+  - Star Patten button with hex color #ececdf
+    - Shirt icons will be filled with the 20crazykira.jpg image
+  - Butterfly cloud button image will be antique-butterflies-patterns2.jpg
+  - Blue stripe button image will be Blues.jpg
+  - Red stripe button image will be Jazz.jpg
+  - Strawberry button with hex color #ecebdf
+    - Shirt icons will be filled with the strawberry.png image
+  - Gold button image will be webtreats-3.jpg
+  - Gold flower button image will be webtreats-6.jpg
+  - Light blue stripe button image will be pattern9.png
+  - Green pattern button image will be Ocean Waves – Mint.jpg
+  - Pink design button image will be pattern.png
+  - Pink flower button with hex color #2e0101
+    - Shirt icons will be filled with the flower.png image
+  - Purple button with hex color #62289b
+  - Teal button with hex color #2c5c4e
+  - Red button with hex color #a70e0c
+  - Blue button with hex color #4da0c4
+  - Fuchsia button with hex color #bc32a2
+  - Grey button with hex color #626262
+  - White button with hex color #ffffff with a black outline
+- Each color button will color all five shirt icons at the same time
+- The buttons will be arranged in five lines of six under the title “Shirts:”
+  - First line order – Aries, Taurus, Gemini, Cancer, Leo and Virgo
+  - Second line order – Libra, Scorpio, Sagittarius, Capricorn, Aquarius and Pisces
+  - Third line order – Star Patten, Butterfly cloud, Blue stripe, Red stripe, Strawberry and Gold
+  - Fourth line order – Gold flower, Light blue stripe, Green pattern, Pink design, Pink flower and Purple
+  - Fifth line order – Teal, Red, Blue, Fuchsia, Grey and White
+- Aries, Taurus, Gemini, Cancer, Leo, Virgo, Libra, Scorpio, Sagittarius, Capricorn, Aquarius and Pisces have two choice options:
+  - The first time the user click on the these buttons the shirt icons will be colored with the hex color and a zodiac logo on the right side
+  - The second time the user click on the these buttons the shirt icons will be colored with only the hex color
+
+Pants color buttons requirements:
+- There will nine color buttons under the pants heading
+  - Blue jeans button image will be 61199849057b8b771.jpg
+  - Dark blue jeans button image will be 61199849057b8b772.jpg
+  - Light blue jeans button image will be 61199849057b8b773.jpg
+  - Black jeans button image will be 61199849057b8b775.jpg
+  - Dark grey jeans button image will be 61199849057b8b77.jpg
+  - Grey jeans button image will be 61199849057b8b776.jpg
+  - Blue plaid button image will be Softly Plaidly (6)smallbluedark.png
+  - Red plaid button image will be Softly Plaidly (6)smallred.png
+  - Khaki button image will be 61199849057b8b774.jpg
+- Each color button will color the pants icon
+- The buttons will be arranged in two lines under the title “Pants:”
+  - First line order – Blue jeans, Dark blue jeans, Light blue jeans, Black jeans, Dark grey jeans and Grey jeans
+  - Second line order – Blue plaid, Red plaid and Khaki
+
+Skirts color buttons requirements:
+- There will fifteen color buttons under the skirts heading
+  - Brown kaleidoscope button image will be gold jewel.png
+  - White kaleidoscope button image will be frozen love.png
+  - Green kaleidoscope button image will be 425164.png
+  - Stripes button image will be stripe.png
+  - Leaves button image will be leaves.png
+  - Poke-a-dots button image will be crazykira-resources (48).jpg
+  - Blue plaid button image will be Softly Plaidly (6)smallbluedark.png
+  - Khaki button image will be 61199849057b8b774.jpg
+  - Red plaid button image will be Softly Plaidly (6)smallred.png
+  - Light blue jeans button image will be 61199849057b8b773.jpg
+  - Blue jeans button image will be 61199849057b8b771.jpg
+  - Dark blue jeans button image will be 61199849057b8b772.jpg
+  - Grey jeans button image will be 61199849057b8b776.jpg
+  - Dark grey jeans button image will be 61199849057b8b77.jpg
+  - Black jeans button image will be 61199849057b8b775.jpg
+- Each color button will color both skirt icons at the same time
+- The buttons will be arranged in three lines under the title “Skirts:”
+  - First line order – Brown kaleidoscope, White kaleidoscope, and Green kaleidoscope 
+  - Second line order – Stripes, Leaves, Poke-a-dots, Blue plaid, Khaki and Red plaid
+  - Third line order - Light blue jeans, Blue jeans, Dark blue jeans, Grey jeans, Dark grey jeans and Black jeans
