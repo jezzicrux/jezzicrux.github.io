@@ -21,10 +21,10 @@ This flash game was created for testing against requirements and finding bugs.
    - c.	The inner background of the mannequin window will be background.png
    - d.	There will be mannequin centered within the window
    - e.	Three buttons will be place at the top on the border.
-         i.	Eyes
-            - 1.	When clicked there will be four eyes options
-         ii.	Nose
-            - 1.	When clicked there will be four nose options
+         - Eyes
+            - When clicked there will be four eyes options
+         - Nose
+            - When clicked there will be four nose options
 iii.	Mouth
 1.	When clicked there will be five mouth options
 f.	A button will be located on the upper right side that will control the sound. (Toggle sound on and off)
