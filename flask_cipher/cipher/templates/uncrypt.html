@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <link href="https://fonts.googleapis.com/css?family=Roboto+Condensed|Squada+One" rel="stylesheet">
+    <link rel=stylesheet type=text/css href="../static/style.css">
+    <title>Secert Message</title>
+  </head>
+  <body>
+    <div id ="containerun">
+      <form method="POST" action="/cipher">
+        <label for="mess">Enter your decrypt message:</label>
+        <input type="text" id="mess" name="message" placeholder="message"><br> <br>
+        <label for="numb">Enter your key:</label>
+        <input type="text" id="numb" name="key" placeholder="key"><br> <br>
+        <div id="display">
+          <p>{{key}}</p>
+        </div>
+        <button id="secert">Uncrypt Message</button>
+      </form>
+    </div>
+  </body>
+</html>
