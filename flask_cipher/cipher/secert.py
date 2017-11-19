@@ -8,11 +8,11 @@ def index():
 
 @app.route('/decrypt')
 def decrypt():
-	return render_template('decrpyt.html')
+	return render_template('/decrpyt.html')
 
 @app.route('/uncrypt')
 def uncrypt():
-	return render_template('uncrypt.html')
+	return render_template('/uncrypt.html')
 
 @app.route('/cipher', methods = ['GET', 'POST'])
 def secertcode():
@@ -36,11 +36,11 @@ def secertcode():
 					pass
 			cipher = "".join(new_message)
 			print(cipher)
-			return render_template('cipher.html', decrypt = cipher)
+			return render_template('/cipher.html', decrypt = cipher)
 		else:
 			warning = "WRONG KEY"
-			return render_template('index.html', key = warning)
+			return render_template('/index.html', key = warning)
 	else:
 		print('get method')
-		return render_template('index.html')
-	return render_template('cipher.html', decrypt = cipher)
+		return render_template('/index.html')
+	return render_template('/cipher.html', decrypt = cipher)
