@@ -8,11 +8,13 @@ body{
 }
 
 header{
-	padding: 1.25em;
+	margin: 0em;
+	padding: .5em .5em 0em;
 	color: #FFEB9A;
 }
 
 #main_title{
+	margin: 0em;
 	font-family: 'Bowlby One';
 	font-size: 3.5em;
 	text-align: center;
@@ -21,13 +23,15 @@ header{
 }
 
 nav{
-	background-color: #091A40;
+	/*background-color: #091A40;*/
+	max-width: 65%;
+	margin: 0em auto;
 }
 
 nav a{
 	text-decoration: none;
 	font-weight: 900;
-	font-size: 1.5em;
+	font-size: 1.25em;
 	letter-spacing: .05em;
 	color: #FFEB9A;
  	display: block;
@@ -49,7 +53,7 @@ nav a:hover{
     height: 0;
 }
 .two_column {
-	color:#091a40;
+	color:#FFEB9A;
 }
 
 .title {
@@ -58,7 +62,7 @@ nav a:hover{
 	text-align: center;
 	font-weight: 900;
 	font-size: 1.8em;
-	text-decoration: underline;
+	text-decoration: none;
 }
 
 .picture {
@@ -115,31 +119,10 @@ nav a:hover{
 	line-height: 1.25em;
 }
 
-.descripition h2{
+h2{
 	font-weight: 900;
 	font-size: 1.2em;
-	text-decoration: underline;
-}
-
-.descripition_ver h2{
-	font-weight: 900;
-	font-size: 1.2em;
-	text-decoration: underline;
-}
-
-.descripition_small h2{
-	font-weight: 900;
-	font-size: 1.2em;
-	text-decoration: underline;
-}
-
-.clearfix:after {
-    visibility: hidden;
-    display: block;
-    font-size: 0;
-    content: " ";
-    clear: both;
-    height: 0;
+	text-decoration: none;
 }
 
 footer {
@@ -161,7 +144,6 @@ footer a{
 }
 
 section{
-	background-color: #FFEB9A;
 	padding: 1.25em;
 }
 
