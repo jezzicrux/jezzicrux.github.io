@@ -40,6 +40,7 @@ nav a{
 }
 
 nav a:hover{
+	background-color: #FFEB9A;
 	color: #091A40;
 }
 
@@ -190,7 +191,6 @@ section{
 	}
 
 	section{
-		background-color: #FFEB9A;
 		padding: 1.25em;
 	}
 }
