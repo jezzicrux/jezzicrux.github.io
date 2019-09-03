@@ -1,0 +1,172 @@
+body 
+        {
+          background-color: #ffffff;
+          background-image: url('images/back.png');
+          background-repeat: no-repeat;
+          background-attachment:fixed;
+          background-position: center left;
+        }
+
+a {
+text-decoration: none;
+}
+        
+#back{
+  width:1000px;
+        }
+        
+#nav{
+  position: fixed;
+  top:0;
+  width:1000px;
+  height:50px;
+  background-image:url('images/nav.png');
+  z-index: 99999;
+        }
+        
+#about a{
+  width:150px;
+  height:50px;
+  background-image:url('images/nava.png');
+  position: absolute;
+  top: 0px;
+  left:75px;
+}
+#about a:hover{
+  width:150px;
+  height:50px;
+  background-image:url('images/navah.png');
+  position: absolute;
+  top: 0px;
+  left:75px;
+}
+#about a:active{
+  width:150px;
+  height:50px;
+  background-image:url('images/navah.png');
+  position: absolute;
+  top: 0px;
+  left:75px;
+}
+
+#product a{
+  width:150px;
+  height:50px;  
+  background-image:url('images/navph.png');
+  position: absolute;
+  top: 0px;
+  left:275px;
+}
+#product a:hover{
+  width:150px;
+  height:50px;  
+  background-image:url('images/navph.png');
+  position: absolute;
+  top: 0px;
+  left:275px;
+}
+#product a:active{
+  width:150px;
+  height:50px;  
+  background-image:url('images/navph.png');
+  position: absolute;
+  top: 0px;
+  left:275px;
+}
+
+#order a{
+  width:150px;
+  height:50px;  
+  background-image:url('images/navo.png');
+  position: absolute;
+  top: 0px;
+  left:475px;
+}
+#order a:hover{
+  width:150px;
+  height:50px;  
+  background-image:url('images/navoh.png');
+  position: absolute;
+  top: 0px;
+  left:475px;
+}
+#order a:active{
+  width:150px;
+  height:50px;  
+  background-image:url('images/navoh.png');
+  position: absolute;
+  top: 0px;
+  left:475px;
+}
+
+#contact a{
+  width:150px;
+  height:50px;  
+  background-image:url('images/navc.png');
+  position: absolute;
+  top: 0px;
+  left:675px;
+}
+#contact a:hover{
+  width:150px;
+  height:50px;  
+  background-image:url('images/navch.png');
+  position: absolute;
+  top: 0px;
+  left:675px;
+}
+#contact a:active{
+  width:150px;
+  height:50px;  
+  background-image:url('images/navch.png');
+  position: absolute;
+  top: 0px;
+  left:675px;
+}
+
+.text{
+  width:450px;
+  height:150px;
+  background-image:url('images/text.gif');
+  position: absolute;
+  top: 75px;
+  left: 75px;
+}
+
+.dark{
+  width:900px;
+  height:431px;
+  background-image:url('images/hazeldark.gif');
+  position: absolute;
+  top: 250px;
+  left: -40px;
+        }
+        
+.milk{
+  width:900px;
+  height:431px;
+  background-image:url('images/hazelmilk.gif');
+  position: absolute;
+  top: 706px;
+  left: -40px;
+        }
+
+.resp{
+  width:900px;
+  height:431px;
+  background-image:url('images/hazeldarkresp.gif');
+  position: absolute;
+  top: 1162px;
+  left: -40px;
+        }
+        
+.white{
+  width:900px;
+  height:431px;
+  background-image:url('images/hazelwhite.gif');
+  background-repeat: no-repeat;
+  padding-bottom: 25px;
+  position: absolute;
+  top: 1618px;
+  left: -40px;
+        }

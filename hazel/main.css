@@ -1,0 +1,30 @@
+body 
+        {
+          background-color: #ffffff;
+        }
+
+a {
+text-decoration: none;
+}
+        
+#page{
+  width:1000px;
+        }
+
+.enter a{
+  width:60px;
+  height:72px;
+  background-image:url('images/leafsingle.png');
+  position: absolute;
+  top: 210px;
+  left: 507px;
+        }
+        
+.enter a:hover{
+  width:349px;
+  height:72px;
+  background-image:url('images/leafword.png');
+  position: absolute;
+  top: 210px;
+  left: 507px;
+        }
