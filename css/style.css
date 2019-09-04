@@ -1,0 +1,254 @@
+html{
+	height: 100%;
+	color: #CED2EA;
+	font-family: 'Century Gothic', 'Calibri', 'Helvetica', sans-serif;
+	font-size: px;
+}
+@font-face{ 
+	font-family: 'Copperplate-Gothic-Std-31-AB';
+	src: url('Copperplate-Gothic-Std-31-AB.woff') format('woff');
+}
+* { margin:0; padding:0; box-sizing:border-box; }
+
+body{
+	height: 100%;
+	background-color: #15161c;
+	color: #CED2EA;
+	font-family: 'Century Gothic', 'Calibri', 'Helvetica', sans-serif;
+	font-size: 16px;
+}
+
+#logo{
+	margin: 0em;
+	padding: .5em;
+	color: #CED2EA;
+}
+
+#logo img{
+	width: 70%;
+	padding-bottom: .2em;
+}
+
+/*#backimage{
+	height: 100%;
+	background-image: url(../images/karkula_newspaper_ad_final_oct2014.png);
+	background-repeat: no-repeat;
+	background-size: cover;
+	opacity: .07;
+}*/
+
+#main_title{
+	margin: 0em;
+	font-family: 'Copperplate-Gothic-Std-31-AB', 'Helvetica', sans-serif;
+	font-size: 3.5em;
+	letter-spacing: .1em;
+	text-decoration: none;
+	height: 100%;
+}
+
+.landing_navi {
+	list-style-type: none;
+	padding: .5em .5em 0em;
+ }
+
+.landing_navi li{
+	padding-bottom: .5em;
+ } 
+
+.side_navi {
+	list-style-type: none;
+	padding: .5em .5em 0em;
+ }
+
+.side_navi li{
+	padding-bottom: .5em;
+ } 
+
+.sub_navi {
+	list-style-type: none;
+	padding: 0em 1.5em;
+ }
+
+.sub_navi li{
+	padding-bottom: .3em;
+ } 
+/*Animating the links to slide in from the left*/
+
+div.slidein li{
+	animation: popin 2s 1 ease;
+ }
+
+@keyframes popin{
+	from {margin-left: -30em;
+	color: #15161c;}
+	to {margin-left: 0em;
+	color: #CED2EA;}
+}
+
+.landing_navi a {
+	color: #CED2EA;
+	font-family: 'Copperplate-Gothic-Std-31-AB', 'Helvetica', sans-serif;
+	text-decoration: none;
+	font-weight: 800;
+	font-size: 1.5em;
+	letter-spacing: .08em;
+}
+
+.landing_navi a:hover {
+	color: #7B90C6;
+}
+
+.side_navi a{
+	color: #CED2EA;
+	font-family: 'Copperplate-Gothic-Std-31-AB', 'Helvetica', sans-serif;
+	text-decoration: none;
+	font-weight: 600;
+	font-size: 1.1em;
+	letter-spacing: .1em;
+}
+
+.side_navi a:hover, a.active_link {
+	color: #7B90C6;
+}
+
+.sub_navi a {
+	color: #CED2EA;
+	font-family: 'Copperplate-Gothic-Std-31-AB', 'Helvetica', sans-serif;
+	text-decoration: none;
+	font-weight: 400;
+	font-size: .9em;
+	letter-spacing: .1em;
+}
+
+.sub_navi a:hover, a.active_link {
+	color: #7B90C6;
+}
+
+
+.title {
+	padding-left: 1em;
+	padding-top: .4em;
+	font-weight: 700;
+	font-size: 1.3em;
+}
+
+.subtitle {
+	padding-left: 2em;
+	padding-bottom: .3em;
+	font-style: italic;
+	font-size: 1em;
+}
+
+.works{
+	padding-top: 2em;
+	display: flex;
+	flex-wrap: wrap;
+	flex-direction: row;
+}
+
+.works img{
+	padding: 1em;
+}
+
+.works_web{
+	display: flex;
+	flex-wrap: wrap;
+	flex-direction: row;
+	padding-bottom: 1em;
+}
+
+.works_web img{
+	padding: 1em;
+}
+
+.res_heading{
+	font-family: 'Copperplate-Gothic-Std-31-AB', 'Helvetica', sans-serif;
+	font-weight: 600;
+	font-size: 1.5em;
+	letter-spacing: .1em;
+	text-decoration: none;
+	padding-top: .75em;
+	color: #7B90C6;
+}
+
+#top_header{
+	padding-top: 1em;
+}
+
+#top_header a{
+	font-family: 'Copperplate-Gothic-Std-31-AB', 'Helvetica', sans-serif;
+	font-weight: 600;
+	font-size: 1em;
+	letter-spacing: .05em;
+	text-decoration: none;
+	color: #CED2EA;
+}
+
+#top_header a:hover{
+	color: #7B90C6;
+}
+
+.link_heading a{
+	font-family: 'Copperplate-Gothic-Std-31-AB', 'Helvetica', sans-serif;
+	font-weight: 600;
+	font-size: 1em;
+	letter-spacing: .05em;
+	text-decoration: none;
+	color: #CED2EA;
+}
+
+.link_heading a:hover{
+	color: #7B90C6;
+}
+
+.skill_item{
+	padding: .5em 0;
+}
+
+/* For resume page*/
+.progress_bar_animation{
+  height: 1.5em;
+  background: #15161c;
+  width: 0%;
+  -moz-transition: all 3s ease;
+  -moz-transition-delay: .2s;
+  -webkit-transition: all 3s ease;
+  -webkit-transition-delay: .2s;
+  transition: all 3s ease;
+  transition-delay: .2s;
+}
+
+.insidebar{
+	line-height: 1.5em;
+}
+
+.main_wrapper{
+	width: 45%;
+	position: absolute;
+	top: 10em;
+	left: 5em;
+}
+
+.side_wrapper{
+	width: 12em;
+	height: 100%;
+	position: fixed;
+	top: 1em;
+	left: 2em;
+}
+
+.content_wrapper{
+	width: 60%;
+	height: 100%;
+	position: relative;
+	top: .25em;
+	left: 15em;
+	padding-left: 2em;
+	margin-bottom: 2em;
+}
+
+section{
+	padding: 0 1.25em;
+}
+
+
